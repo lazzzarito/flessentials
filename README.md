@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="logo.webp" alt="F&L Essentials Logo" width="100%">
+</p>
 
-## Getting Started
+# F&L Essentials  
+### Redefiniendo lo esencial.
 
-First, run the development server:
+En un mundo donde la tecnología avanza más rápido que nunca,  
+F&L Essentials nace con una misión clara:  
+**hacer que la innovación sea accesible, intuitiva y profundamente humana.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+No creemos en complicar lo simple.  
+Creemos en perfeccionarlo.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Una nueva forma de entender la tecnología
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+En F&L Essentials, cada producto, cada detalle y cada decisión responde a una sola pregunta:
 
-## Learn More
+**¿Mejora la vida de las personas?**
 
-To learn more about Next.js, take a look at the following resources:
+Si la respuesta no es un sí absoluto, no es suficiente.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Por eso diseñamos una experiencia donde:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- La tecnología se siente natural  
+- Los electrodomésticos se integran sin esfuerzo  
+- Lo esencial se vuelve extraordinario  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚡ Nuestra filosofía
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Menos ruido. Más intención.**  
+**Menos complicación. Más claridad.**  
+**Menos productos. Más propósito.**
+
+Cada artículo que formará parte de nuestro catálogo real será seleccionado bajo tres principios:
+
+1. **Calidad impecable**  
+2. **Diseño inteligente**  
+3. **Valor accesible**
+
+No buscamos tener más.  
+Buscamos tener algo **mejor**.
+
+---
+
+## 🌍 Lo que estamos construyendo
+
+Aunque el catálogo actual es demostrativo, representa la base de algo más grande:
+
+### Tecnología que inspira  
+Auriculares, smartwatches, audio, gadgets inteligentes.
+
+### Electrodomésticos que acompañan  
+Cafeteras, licuadoras, aspiradoras, herramientas de cocina.
+
+### Esenciales que transforman  
+Productos cotidianos diseñados para elevar la experiencia diaria.
+
+Todo con un enfoque minimalista, moderno y profundamente funcional.
+
+---
+
+## 🖥️ Una experiencia pensada para sentir
+
+Explora la plataforma:  
+**https://flessentials.vercel.app**
+
+Diseñada para ser:
+
+- Limpia  
+- Rápida  
+- Intuitiva  
+- Atemporal  
+
+Una experiencia donde cada elemento tiene un propósito.
+
+---
+
+## 🤝 Creciendo contigo
+
+F&L Essentials no es solo una tienda.  
+Es un proyecto vivo.  
+Una visión en expansión.  
+Una marca construida con intención.
+
+Si eres proveedor, distribuidor, creador o aliado,  
+queremos construir el futuro contigo.
+
+📩 **contacto@flessentials.com**
+
+---
+
+## 📱 Conecta con la marca
+
+- Instagram: **@flessentials**  
+- Facebook: **F&L Essentials**  
+- TikTok: **@flessentials.shop**  
+- WhatsApp Business: **+1 (000) 000‑0000**
+
+---
+
+## © 2026 F&L Essentials  
+**Tecnología que eleva. Diseño que inspira. Esenciales que transforman.**
