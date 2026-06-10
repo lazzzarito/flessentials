@@ -1,0 +1,15 @@
+{
+  "name": "F&L Essentials",
+  "location": "Cotorro, La Habana, Cuba",
+  "whatsappNumber": "+5358383303",
+  "logoUrl": "/images/logo.webp",
+  "currency": {
+    "code": "USD",
+    "symbol": "$"
+  },
+  "promoBanners": [
+    "/api/images/promos/landscape-promo.webp",
+    "/api/images/promos/square-promo-1.webp",
+    "/api/images/promos/square-promo-2.webp"
+  ]
+}

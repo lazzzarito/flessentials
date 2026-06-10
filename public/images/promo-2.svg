@@ -1,0 +1,15 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1c1a17"/>
+      <stop offset="100%" stop-color="#6e675f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" rx="40" fill="url(#g2)"/>
+  <ellipse cx="920" cy="180" rx="140" ry="140" fill="#fdfaf6" opacity="0.12"/>
+  <path d="M120 380 C260 240, 420 240, 560 380 S860 560, 1000 420" fill="none" stroke="#fdfaf6" stroke-width="22" opacity="0.25"/>
+  <text x="80" y="190" font-family="Segoe UI, sans-serif" font-size="52" font-weight="700" fill="#fdfaf6">Lanzamientos nuevos</text>
+  <text x="80" y="260" font-family="Segoe UI, sans-serif" font-size="28" fill="#fdfaf6">Encuentra lo mejor en cuero y accesorios</text>
+  <rect x="80" y="330" width="240" height="58" rx="28" fill="#fdfaf6" opacity="0.15"/>
+  <text x="108" y="367" font-family="Segoe UI, sans-serif" font-size="20" fill="#1c1a17">Descúbrelo</text>
+</svg>
